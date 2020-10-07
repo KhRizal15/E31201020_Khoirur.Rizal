@@ -12,16 +12,16 @@ public class Latihan4_BobotNilaiHuruf {
     public static void main(String[] args){
       String huruf = "A";
       switch(huruf) {
-          case "A";
+          case "A":
               System.out.println("4");
-          case "B";
+          case "B":
               System.out.println("3");
-          case"C";
+          case"C":
               System.out.println("2");
-              case"D";
-                  System.out.println("1");
-              case "E";
-                  System.out.println("0");
+          case"D":
+              System.out.println("1");
+          case "E":
+              System.out.println("0");
               
               
           
